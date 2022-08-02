@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">lib_boivochong</string>
+
+    <string name="boivochong_chongioitinh">Chọn Giới Tính Của Bạn</string>
+    <string name="boivochong_title">đoán tên vợ chồng</string>
+    <string name="boivochong_tenban">tên bạn</string>
+    <string name="boivochong_tenbannam">bạn là nam</string>
+    <string name="boivochong_tenbannu">bạn là nữ</string>
+
+    <string-array name="tennam">
+        <item>Anh Dũng</item>
+        <item>Anh Minh</item>
+        <item>Chí Kiên</item>
+        <item>Chí Thanh</item>
+        <item>Đăng Khoa</item>
+        <item>Chiến Thắng</item>
+        <item>Đức Tài</item>
+        <item>Đình Trung</item>
+        <item>Gia Huy</item>
+        <item>Hải Đăng</item>
+        <item>Huy Hoàng</item>
+        <item>Hữu Đạt</item>
+        <item>Hùng Cường</item>
+        <item>Hoàng Phi</item>
+        <item>Mạnh Khôi</item>
+        <item>Kiến Văn</item>
+        <item>Hữu Phước</item>
+        <item>Khôi Vĩ</item>
+        <item>Mạnh Hùng</item>
+        <item>Minh Quang</item>
+        <item>Thành Công</item>
+        <item>Thành Đạt</item>
+        <item>Thanh Tùng</item>
+        <item>Quang Mạnh</item>
+        <item>Nam Khánh</item>
+        <item>Thái Hưng</item>
+        <item>Đức Trung</item>
+        <item>Quang Khải</item>
+        <item>Minh Khôi</item>
+        <item>Gia Khánh</item>
+        <item>Trường An</item>
+        <item>Việt Dũng</item>
+        <item>Hoàng Minh</item>
+        <item>Anh Tuấn</item>
+        <item>Quốc Trung</item>
+        <item>Minh Nam</item>
+        <item>Thế Bảo</item>
+    </string-array>
+    <string-array name="tennu">
+        <item>Bảo Vy</item>
+        <item>Cát Tường</item>
+        <item>Gia Hân</item>
+        <item>Hoài An</item>
+        <item>Khả Hân</item>
+        <item>Khánh Ngọc</item>
+        <item>Khánh Ngân</item>
+        <item>Linh Chi</item>
+        <item>Ngọc Khuê</item>
+        <item>Phúc An</item>
+        <item>Thanh Hà</item>
+        <item>Bích Hà</item>
+        <item>Thanh Thúy</item>
+        <item>An Ngọc</item>
+        <item>Khánh Châu</item>
+        <item>Kim Ngân</item>
+        <item>Tuyết Nhung</item>
+        <item>Yến Nhi</item>
+        <item>Vân Khánh</item>
+        <item>An Diệp</item>
+        <item>Cát Anh</item>
+        <item>Cẩm Anh</item>
+        <item>An Nhiên</item>
+        <item>Quỳnh Anh</item>
+        <item>Phương Linh</item>
+        <item>Hoài Thương</item>
+        <item>Thiên Bình</item>
+        <item>Thanh Thảo</item>
+        <item>Hiền Châu</item>
+        <item>Mai Ngọc</item>
+        <item>Hồng Diễm</item>
+        <item>Bích Thảo</item>
+        <item>Bích Thủy</item>
+        <item>Ðoan Trang</item>
+        <item>Đan Tâm</item>
+        <item>Hiền Nhi</item>
+        <item>Hiền Thục</item>
+        <item>Hương Thảo</item>
+        <item>Minh Tâm</item>
+        <item>Mỹ Tâm</item>
+        <item>Phương Thùy</item>
+        <item>Phương Trinh</item>
+        <item>Nhã Phương</item>
+        <item>Phương Thảo</item>
+        <item>Thanh Mai</item>
+    </string-array>
+</resources>
